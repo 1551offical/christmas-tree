@@ -3,9 +3,24 @@
 
 这是一个的3d交互式圣诞树网页项目。
 
-**在线预览**: [https://christmas-tree.space/]
+**在线预览**: [https://christmas-tree.bwm.de5.net/]
 <img width="1552" height="1121" alt="image" src="https://github.com/user-attachments/assets/c96f5f14-d837-43d1-a26a-3c06edfe198d" />
 
+## 📦 部署
+
+### Vercel / Cloudflare 
+
+推荐使用 Vercel 或 Cloudflare Pages 进行一键部署。
+
+<div align="left">
+  <a href="https://vercel.com/new/clone?repository-url=https://github.com/dark-hxx/christmas-tree" target="_blank">
+    <img src="https://vercel.com/button" alt="Deploy with Vercel" height="32" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://dash.cloudflare.com/?to=/:account/workers-and-pages/create/deploy-to-workers&repository=https://github.com/dark-hxx/christmas-tree" target="_blank">
+    <img src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare Workers" height="32" />
+  </a>
+</div>
 
 ## 🛠 如何编辑和开发
 
